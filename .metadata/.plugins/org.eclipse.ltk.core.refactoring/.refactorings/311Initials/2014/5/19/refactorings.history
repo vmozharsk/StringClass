@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;app.E311Initials&apos; to &apos;Initials&apos;&#x0D;&#x0A;- Original project: &apos;311Initials&apos;&#x0D;&#x0A;- Original element: &apos;app.E311Initials&apos;&#x0D;&#x0A;- Renamed element: &apos;app.Initials&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;E311Initials&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;app{E311Initials.java[E311Initials" matchStrategy="1" name="Initials" qualified="false" references="true" similarDeclarations="false" stamp="1399643129945" textual="false" version="1.0"/>
+</session>
